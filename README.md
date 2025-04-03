@@ -4,6 +4,26 @@ Wallpapers for ExpidusOS
 
 ## Sources
 
+### `dark-sand.jpg`
+
+Source: [Link](https://unsplash.com/photos/a-view-of-a-snow-covered-mountain-O-jSLVxzoBg)
+
+### `default.jpg`
+
+Source: [Link](https://unsplash.com/photos/aerial-photography-of-mountain-and-river-uOi3lg8fGl4)
+
+### `lake.jpg`
+
+Source: [Link](https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-lGYfGfLF6yo)
+
+### `mobile.jpg`
+
+Source: [Link](https://unsplash.com/photos/man-walking-on-street-4uqqrQYdxQw)
+
+### `mountains.jpg`
+
+Source: [Link](https://unsplash.com/photos/mountain-covered-with-clouds-SRfFmo9bDfk)
+
 ### `neon-tokyo.jpg`
 
 Source: [Link](https://unsplash.com/photos/grayscale-photo-of-business-central-street-FPyGfMHXWZU)
